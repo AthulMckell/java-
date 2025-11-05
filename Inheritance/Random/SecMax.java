@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class SecMax {
 
     public static int SecMaxElemet(int[] Arr){

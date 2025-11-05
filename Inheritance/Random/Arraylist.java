@@ -1,3 +1,4 @@
+package Inheritance.Random;
 import java.util.ArrayList;
 import java.util.Arrays;
 public class Arraylist {

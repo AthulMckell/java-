@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class KadaneAlgorithm {
     public static int maxSubArraySum(int[] arr) {
         int currentSum = arr[0];

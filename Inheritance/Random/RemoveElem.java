@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class RemoveElem {
     public static int[] CountElem(int[] arr){
         int count=0;

@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class Mathutility {
     public static int add(int a,int b){
         return a+b;

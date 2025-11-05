@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class Computer { 
     public class Processor{
         public void displayDetails(){

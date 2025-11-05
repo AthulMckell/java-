@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class MoveZero {
 
     public static void printarray(int[] arr){

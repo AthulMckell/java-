@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class Dog {
     private String name;
     private String colour;

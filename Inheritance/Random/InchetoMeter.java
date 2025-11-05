@@ -1,3 +1,4 @@
+package Inheritance.Random;
 import java.util.Scanner;
 public class InchetoMeter {
     public static void main(String[] arg){

@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class Counter {
     private static int count = 0;
 

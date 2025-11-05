@@ -1,3 +1,4 @@
+package Inheritance.Random;
 public class MatrixSearch {
     public static boolean matSearch(int mat[][], int x) {
         int n = mat.length;

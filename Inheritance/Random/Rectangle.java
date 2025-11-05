@@ -1,3 +1,4 @@
+package Inheritance.Random;
 //Copy constructors
 public class Rectangle {
     private float height;
@@ -13,6 +14,7 @@ public class Rectangle {
     }
     public static void main(String[] args) {
         Rectangle Rect = new Rectangle(10, 12);
+
         System.out.println(Rect.height+" "+Rect.lenght);
 
         Rectangle Rect2 = new Rectangle(Rect);

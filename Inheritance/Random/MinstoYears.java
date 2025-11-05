@@ -1,3 +1,4 @@
+package Inheritance.Random;
 import java.util.Scanner;
 public class MinstoYears {
     public static void main(String[] arg){

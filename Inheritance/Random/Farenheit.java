@@ -1,3 +1,4 @@
+package Inheritance.Random;
 import java.util.Scanner;
 public class Farenheit{
     public static void main(String[] arg){
